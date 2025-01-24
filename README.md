@@ -1,10 +1,9 @@
-
-## Live Demo:
-https://scrapper-ai.streamlit.app/
-
 # AI Web Scraper
 
 Welcome to the AI Web Scraper project! This project is designed to scrape web content, clean it, and parse it using AI techniques. The project leverages Streamlit for the user interface, Selenium for web scraping, and various Python libraries for content processing.
+
+## Live Demo:
+https://scrapper-ai.streamlit.app/
 
 ## Table of Contents
 - [Introduction](#introduction)

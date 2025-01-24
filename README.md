@@ -28,7 +28,7 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/AI-Web-Scraper.git
+    git clone https://github.com/jansh7784/AI-Web-Scrapper.git
     cd AI-Web-Scraper
     ```
 
